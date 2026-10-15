@@ -2,10 +2,10 @@
 
 ## THÔNG TIN SINH VIÊN
 
-- **Họ và tên:** Nguyễn Văn A
-- **Mã số sinh viên:** 20123456
-- **Lớp:** 20DTHxx
-- **Tên môn học:** Lập trình C# / Windows Forms
+- **Họ và tên:** Đinh Xuân Trường
+- **Mã số sinh viên:** 24810310234
+- **Lớp:** D19CNPM3
+- **Tên môn học:** Lập trình Net / Windows Forms
 - **Tên bài tập:** Ôn tập Windows Form (Bài 1 → Bài 5)
 
 ---
